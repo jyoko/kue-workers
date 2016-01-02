@@ -1,0 +1,17 @@
+{
+  "name": "kue-workers",
+  "version": "0.0.3",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "kue": "^0.10.4",
+    "request": "^2.67.0"
+  }
+}

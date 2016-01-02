@@ -1,0 +1,7 @@
+# dotfiles
+.*
+Session.vim
+
+# Node files & redis dump
+node_modules/
+dump.rdb
